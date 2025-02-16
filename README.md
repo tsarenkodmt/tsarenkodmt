@@ -13,4 +13,5 @@ I specialize in frontend development.
 - Adobe Photoshop
 
 ### 📬 Contact Me
+Telegramm: https://t.me/tsar_dmt
 Feel free to reach out via email: [dmt.tsarenko@gmail.com](mailto:dmt.tsarenko@gmail.com)
